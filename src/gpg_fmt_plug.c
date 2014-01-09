@@ -992,7 +992,7 @@ static int check(unsigned char *keydata, int ks)
 	unsigned char ivec[32];
 	unsigned char out[BIG_ENOUGH * 2] = { 0 };
 	int tmp = 0;
-	uint32_t num_bits;
+        uint32_t num_bits;
 	int checksumOk;
 	int i;
 
