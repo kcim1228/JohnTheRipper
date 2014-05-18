@@ -1,0 +1,220 @@
+amberauburn:$fcked$czsBjySVOALPRfuy$2,1,102,102$af82dd5d4d7195a1b0de739ccadca1c0
+ambercarmine:$fcked$HSNBEmXKJHzqsRnK$2,13,15,1$e30482c84b6f881eaaea1fe2db033151
+ambercrimson:$fcked$mXceTghyWlkKGYik$3,14,11,4$6d70fcb3a15c76c977ff799bd8c84fdc
+amberemerald:$fcked$nUPkGSJQWyLKxZXw$4,0,102,4$52083e932d1913b32b03040c1ca8973a
+amberpumpkin:$fcked$wILGUqqeksQxaYQt$0,13,2,5$39b15b22bc2f975534e54f2123ebb13e
+amethystbeige:$fcked$VUaGZanOyhufRmzY$0,0,15,15$22c5a25abaeae3351b5d1940c0a6ed4b
+amethystceladon:$fcked$qUlZUYOLzYkoxGKT$15,15,2,5$ce22272357120fa4a822dfad0bf4f788
+amethystcopper:$fcked$khJEkqQaYtmGRbmk$5,15,4,12$08e4b36b423a9ea19835ae88005dac3e
+amethystcrimson:$fcked$VFcnuxVUhpXVGkEu$103,101,1,1$6f5d04fc8e388f34f3fa5c97ff7a2648
+amethystfuchsia:$fcked$MzKaZbWVGvwdNOYW$14,100,1,1$6626aab51fbec114ee07ed675f7deed4
+amethystivory:$fcked$LsfSfCjAjevElItR$103,101,12,3$94d26bfc07780aa33c44937e76e1217f
+amethystmahogany:$fcked$WPulAzfWELeMpjGo$15,103,3,12$9b43773a05369d9d50d45a133823f990
+amethystorange:$fcked$mJcfaRwinJHCrFgE$0,5,13,101$a5a65bd9f637502d26d90d5ab1aab6dd
+amethystslate:$fcked$bJoLttmUrSXiuIPQ$2,12,101,11$1ca010e1741078cfab7b0cb22eaf6c23
+amethysttan:$fcked$KOiqodURLiKxLWGR$15,13,11,4$412dbe8b8d7f99cad0f97a36bf083995
+amethysttangerine:$fcked$yDnLTQQDGgxuaCwQ$15,13,13,11$2000fdc1375e5a9578310f74b2adfa46
+apricotamethyst:$fcked$fagUUFhINWGlMGQy$11,13,0,102$f44cba458465af352403e3c94eae558d
+apricotcomplementary:$fcked$eLtuSXEacVjSmfnh$2,1,101,15$14bf806cc23b71c2bc5fb691d32879ba
+apricotlavender:$fcked$kmQAdiwiKBfFjKue$4,1,103,2$fb445a080a829b0982bf01f29eee3ac2
+apricotperiwinkle:$fcked$VxwaVbztZumIeRvP$103,100,2,102$2b90e265e9adcb216f8551c9719230f6
+apricotsienna:$fcked$MHGbtVuhkjIXjakJ$0,5,14,4$b307868b817ec63e1bf1e1766b8a1ad0
+aquacerulean:$fcked$YCmBcRVruTjWmpCO$14,3,3,13$5d99a5ea478d3cbcb7242cab243d8d79
+aquahot pink:$fcked$wAeaoTgpBFwYieKH$100,11,102,11$e21e84f0897d620cd99435331dfedf4d
+aquajungle green:$fcked$NmOWghVnMcKoliWt$13,102,2,4$5c35a716f2cd642c530e774462fadaf1
+aqualight:$fcked$jvWeYefRdnPjlvGv$12,103,2,13$c217e9f358dcde8e97548ddf90d3fb1f
+aquaolive:$fcked$JgzdrMIUJWfDTVly$15,3,0,101$d0d6767cb0e4aca8078cfc6bf82a9b78
+aquapeach:$fcked$wtZXobzfgJyvjQfm$15,14,1,103$dc33fdf7256f2d9fe37611518817e07a
+aquapink:$fcked$RuoTXdiSbBnsNNDV$12,13,14,102$2a8bc364ee11bad18eadf79e44033f78
+aquapumpkin:$fcked$gHCiwayuitiSoEAi$11,2,100,4$7ac0247f858bf567cf0f49a3b126e4dd
+aquatomato:$fcked$FQUrPNRLpkvpsswe$102,1,102,4$695782ec2b7e3bb0312f2c1d8fb55718
+aquamarineauburn:$fcked$yzWAxZcMsXHlwqRG$101,15,102,100$074c6afdac93f71a3481513fb73bc1b9
+aquamarinecarmine:$fcked$LkLRjnUhvaKcczjL$12,100,1,103$26d2231bacee900bca932e2c6c03521c
+aquamarineceladon:$fcked$ASWXdmJKgTctfnfM$2,4,11,3$4cc721b871e4b57cceaaa07174c8480d
+aquamarinecharcoal:$fcked$OnazGDsIrhBanCPy$100,15,15,0$bd6a8ec4fa127fd7773ff865f8ef4249
+aquamarinechartreuse:$fcked$xWrmKQxXIUgXxFTP$101,1,0,11$98eeb7cd385ed9fbe5f7146f5cb15d53
+aquamarinecopper:$fcked$rZcvPRNvaNArXwTL$13,103,101,4$31fc87398e80db0c97556be2a5dde5ba
+aquamarinehue:$fcked$IqiDNEiAimunLxvk$0,4,2,101$b17b2b1c457e5245d2b124333b813ab4
+aquamarinejungle green:$fcked$HEFEzbBvylVYVVqJ$102,102,2,4$8f45688e49a66f20c3990e01a79a0e21
+aquamarinemahogany:$fcked$gFKCjhIFyBYUZuaY$101,101,1,12$8c31724a3c48a76fbca6aa1401f71e3a
+aquamarinemaroon:$fcked$DgSxdseNzlaxlQly$13,3,1,5$5d007a27d8c51999428233059daee082
+aquamarineolive:$fcked$jDPpLZhwnMjcKqef$102,4,14,2$630a98d35b0663a09aa5fe099c9f07fe
+aquamarineorange:$fcked$iBLzwiIlJTeOfSIZ$12,100,13,4$3dc4324777cd391a3c742dadc8484cf3
+aquamarinepastel:$fcked$RhSAozIWNpzvdYIp$103,14,1,12$bbfdf28ed24d260b25ec1de4bfc990b8
+aquamarineperiwinkle:$fcked$UAfRPMbsMTAUCSrc$101,100,102,5$86c690087f1faffaf2202fee185c8463
+aquamarinesienna:$fcked$szIjZKDurBFAuXkR$12,11,11,14$02d51e7f3d57cc79a12d3cec81d8eaff
+aquamarinesteel blue:$fcked$wmiHZmZZTtCEQeDR$101,0,13,3$f70129f2f39587efe9af62edd1114ce5
+aquamarinetaupe:$fcked$biqRsIjnoGIyRvqs$100,13,0,1$8a97f7f4dd46d97dbe2d3b1305c25615
+aquamarinetopaz:$fcked$ZeEJkcCaDEWidrZV$2,3,12,1$8e4b7f1ae2b040a4135992e334eab3d5
+aquamarinevermilion:$fcked$BxKwXuxfLnYwCynS$103,100,101,100$df7697f4ad8d5783a83bf8e3885391b7
+auburngreen:$fcked$OvmdRnFDbcJuwpHE$5,2,103,11$d1ecc9b1a508f307aa7fbd375f129c49
+auburnindigo:$fcked$MOngEvZcJgDyDAFq$15,1,101,12$d873325a526a09b4b6b2fdae02d171c2
+auburnjet:$fcked$rJNlsHihcQqHtClg$101,12,15,103$f3e251e8ce4bc08da5e665a5e84acdcc
+auburnlavender:$fcked$QiUojNKVtfXhEUPb$4,4,102,5$e9313066533154f44f726bd760eecd88
+auburnpuce:$fcked$klKbaLrvgLuAAMgM$3,103,15,102$36a321462f3cd11d9b03b18274e9206a
+auburnpurple:$fcked$LqYGTXRnfrWPHZwd$103,3,15,100$159e043b6e0e39a34f214b9f50ef7368
+auburnviolet:$fcked$niQyiKpiuekCsjsR$4,3,103,13$dd709d53eb984cdb8ad226e881c1cfae
+auburnviridian:$fcked$hCPgufHPgumvSTPV$15,100,1,5$346dd3350e516cd1b8c5314a62c3f5f7
+azurecarmine:$fcked$bhoPRgWNTDpZEteK$0,5,14,2$e2d9c3da07786a26aaad945055fea61a
+azurecrimson:$fcked$osIwNalbODSeZKOc$11,11,12,1$a022d64a9deb9e0b635fecd8bdb5f97a
+azureecru:$fcked$TZCTLAMBIPJTWwgA$102,11,102,12$e2728e4d7209e26bec4bb39b79c8d049
+azuregrey:$fcked$eeodFADiJTUkCuFD$0,14,15,103$ca7dad5773ec5f8a13a74fca9c077462
+azuremauve:$fcked$nppxhQlUXIApSvMc$13,101,101,5$50b3d32e125c5d65e7ad682a28c30049
+azurenavy blue:$fcked$xjoXwoVdheYdoHtN$3,11,13,13$23a718fe56b3e89e89179651452f43bf
+azurepersimmon:$fcked$LwsZvwfyUorBodco$15,15,5,2$472f052b474a74e0cbe4ecdf57414f6c
+azuresecondary:$fcked$VKynJBaXrTeNjdlS$101,101,100,5$b15726389862701db623ae4c152ac8f7
+azuresilver:$fcked$kmECMtzMCxtiYulU$4,100,12,102$9d4767e76d461883509484054552d5c9
+azuretopaz:$fcked$dHdmFWWerQvZPTWi$100,103,0,13$4b71109868cea03ffd6b353b8e3c7e8f
+azurewisteria:$fcked$THEYHUrNZrlRMYvD$13,103,13,13$e4cb4270d0b2d35cc6657925d2b12bc1
+azureyellow:$fcked$DwdXwMRRCGcvEgdU$5,3,12,101$13ba05a3889d29256e3967840f87ac1e
+beigeamethyst:$fcked$yKNqhuAruDwDTSzr$11,12,4,100$3512b94ee88f656a31e2bec81bd65580
+beigecream:$fcked$sXCHXBsbarQxWeDv$4,0,1,1$80617492ea385f4e4534b3e3004f0cba
+beigegray:$fcked$dMOSxZPFTmGnhshI$102,13,14,0$5bc9d08f96beac447d36e5d5acd42015
+beigejet:$fcked$RBaYBAiumdcStJHB$14,4,13,13$037eda0ebb1f220fba44d68e7e4b7ac0
+beigepuce:$fcked$UzUgruvUtiMdSQRp$102,5,11,11$1546c914699584c749b2e185789416ca
+beigerainbow:$fcked$KkfrPHadNGbBrsRg$2,2,13,100$46ae1a145f10f8a0f79e93a08af25c34
+beigerose:$fcked$FActrSjdEMEnVNoe$102,3,15,15$425c335793fa4aff1f0a35fc55a93b49
+blackaqua:$fcked$OOrhzQusBTXqCqgC$4,12,100,100$fd9758211e10340276fc7ad2e1c5b009
+blackblack:$fcked$kEzHxzQRaXYRovxM$0,4,15,3$cc709d5cd54af2261f7a60040aca3c0d
+blackbrown:$fcked$LrtMYrKMZpVZIXnL$102,14,101,100$3f91aeb6ff8e7f1183becc7d91b7451a
+blackfuchsia:$fcked$xUOYgVwalVPBXTZh$5,14,3,11$81c2b54a9dd301e3269559c12908bf44
+blackgold:$fcked$zFkqRBTEXyeUZQbT$15,1,4,4$e6ea1720c870c4d0c66997d600dde133
+blackkhaki:$fcked$sDBmJoZluWZEjUOJ$0,4,1,100$6983a391f00d0761ec9fc365f2998033
+blacklavender:$fcked$DmitYrGZquTnxxmb$1,15,12,0$4675adfe6a03a7b82dcfa9967b43386b
+blackmagenta:$fcked$vmwWlBNmXchhhdnv$12,4,15,11$717392d268b604f8a49e77bc61e218b7
+blackorchid:$fcked$bVRmZIPmWWFNDVpj$3,11,13,14$585c4231427e665d11f5871f66907529
+blackred:$fcked$udxySGUYTJubFYvL$0,100,100,2$6fdbfb417c77fef91442dd5b97f2e355
+blackshade:$fcked$ThqfESaNAvpciIcj$100,101,13,15$6587f070cb2915a65c0b7f7a9f060f5b
+blueazure:$fcked$PieHVVXLPzGyigUL$103,15,4,102$3dd892fbb00dd68a0ffde01c69d273be
+bluebeige:$fcked$BRdObcphAIJcrAvN$3,0,11,2$71fae3afb0fc760cce42da4c5aab2364
+blueburnt umber:$fcked$fADyfOYUoyjrBSjp$12,100,12,5$21a21de93838ae688b480755d121d6a5
+bluecopper:$fcked$gXdWcVRUssjZdlNR$101,103,102,13$47322eaf8c4270948594f393319d5d32
+bluejungle green:$fcked$NhrkpfFHWdXVbWrP$100,102,15,11$bb8a73dd8016a8cd003034af27b70288
+bluelight:$fcked$HXQzSvyBYMwZBLCk$2,11,14,0$6185ea525f5b8ab017c9aaacc846000d
+bluelime:$fcked$aowzhacwOkaqhXGa$2,100,102,3$6315019e765ec7b06cd566e1691d17c8
+bluerusset:$fcked$ONNCJmegxIVqRiiV$100,102,13,5$d2d5a58406b7f939cb7f2ae0f0ad350e
+bluesienna:$fcked$aPIGyRoIbzePYRQR$12,4,15,1$73d966d3e5ce229732a1525f216c4a60
+bronzebeige:$fcked$QVuheZAvZSGGnuVT$1,103,3,14$c4f3858eedbafba9e5d3f68f5e78affa
+bronzecolor:$fcked$tAKTtuYMfchgofhw$14,11,14,1$f82d793eeb55d4dc232046caeb321170
+bronzeecru:$fcked$tpprqaHPXHoGfTCf$101,3,100,2$1d6cf9e048508271c6ddc6d00aeb3b90
+bronzejade:$fcked$AhSTEWxdGunJCWfe$2,13,100,3$3b9e6552f22655317590ee51d6c99568
+bronzemahogany:$fcked$LufLJoVyPQQQlhEC$12,103,15,4$750f3ddf39cb5faf31e1fcc48dde7e2c
+bronzemaroon:$fcked$cZToFKZcbGjRXTmE$102,101,4,102$deb83449e316909cfa828ffe19709589
+bronzeocher:$fcked$eCECJuccKnYrgzZx$3,11,14,12$59422f9d863424dca08bc2b52066c7a0
+bronzeolive:$fcked$YpFtyNJyPvtCJVsj$14,1,15,13$c7265ee323f026204fc4362514c7f237
+bronzeruby:$fcked$rzCCRKHMWSAgMmnk$103,2,13,12$a8a95828c391d1387b1e0cbb0cefa599
+bronzesalmon:$fcked$eOwFnUgTEnUKbvwf$11,5,3,3$8a17d8ed770bf7886efb3eb8696928f9
+bronzeshade:$fcked$JnNyeqzOyBbvGqku$2,1,12,13$6a8a370f834b2bcde1f26b5ccc122f9e
+bronzevermilion:$fcked$eWgahdGjgqdOyoAW$4,3,5,11$2fc351e349631302d5f75403bf721299
+brownapricot:$fcked$YJBvsUBHEhdPPHQm$12,4,5,12$9039e2d80cb732d8aeba152030b023b7
+brownazure:$fcked$WkmMDlCJSJRjwrGh$2,2,102,2$8416ac7b343aa5ecb9b7bbdc4dfd5276
+browncerise:$fcked$PqCZVdXExqTrKuhJ$2,5,2,3$9536cd84cd385005bcca8eed29258780
+browncolor:$fcked$kAVfYObFviwctpGg$101,5,5,11$647b6d5681dee8a4d2577eed13e6b51e
+browncrimson:$fcked$WWroJJKGPBfrvHev$12,101,102,15$f72d4f41f9d16adacf7878fc93d78992
+brownorange:$fcked$EqeVmMknRXAkONfs$1,101,11,4$2c901aac76f99c1115eb34c36b8b68d8
+brownorchid:$fcked$shLktYbixoXdXXzk$12,101,102,102$2b8ebcd7a83f3e7f59d64a06baafa7b1
+brownpuce:$fcked$gvrOVaCQmtvngent$2,15,0,4$7e746dd7cce7c56463b32b04646d6a54
+brownrose:$fcked$gYfejvBGNzrIHVia$101,11,3,0$8330a5f9f332cbb45b4d003109427c3b
+brownscarlet:$fcked$mghZsWSBEGHjMkYw$14,5,101,103$2a6dd191eb25f086f2871b33b12bee6a
+brownsepia:$fcked$pSmggIIFBDMCqHjl$102,1,4,5$2201e18800e31c1ba8cce0e63ccc81e4
+brownshade:$fcked$WpueKVJfoLQSCYui$100,13,3,12$118bac517d0551c3a8d5e78078b71c13
+brownviridian:$fcked$SRwWubrpXVsCONqx$0,14,100,3$93baf45de2eff9a9c4ddff843b68475c
+buffjungle green:$fcked$ncUrvZwFucYdgMIV$4,11,102,0$751e270ebbc86f8b04fde17d549cd8a0
+buffmustard:$fcked$SNeqqAZnKAYiBOKU$101,2,103,2$2ece43855f2af74a736509dce5e464d5
+buffpewter:$fcked$pKsoOmqwQQswonOW$0,14,12,102$e146bc6cf3efcd9fb892ba4b1930d7ba
+buffpuce:$fcked$SkPjGvzfIitWJQyl$4,103,103,103$3cc654deac348c68ca22ab1775d8db95
+buffpurple:$fcked$xizOAzuvVOuCdiLs$12,102,102,0$6d26053da099bc4e262d94ff2ae65d13
+buffrusset:$fcked$fCiBamOeUcHRLerB$12,0,103,15$d0486cdb4c7c1b7b1f5b6e3d0f280fbd
+buffrust:$fcked$zipIqbupkxNlThIh$4,15,5,103$2a5b6271c079b972bc8f335c27770853
+buffscarlet:$fcked$BOXdgUDIvFCcWtkL$12,12,103,14$425562953445b6c77277548100c1f710
+buffsecondary:$fcked$KjQiigUTNdcfzhOS$100,5,0,5$ba16fdc943a40188342cc03d56a2b2fe
+buffslate:$fcked$NZVIDKBjpKbAUISs$4,102,0,5$1259110c91980a64f9f4b9359e164006
+buffteal:$fcked$SGNhdqvdLFtqNCCH$102,12,13,100$5f07f78a873a9e39f1b6a422345be7b7
+burnt umberaquamarine:$fcked$SipPcaggewNiidZl$11,3,102,14$65b4f473a1db5c737faa2404e509d8a5
+burnt umberblue:$fcked$lJglQwfMBrVTBpdU$15,5,14,12$d6e0f3af1fbdab5b5a47614dbcb4d20b
+burnt umbercinnamon:$fcked$jkmAGPbgsSyLHQSs$102,11,12,13$71208e6802ca06be78836861d2986018
+burnt umbercyan:$fcked$bavbAFdAAWwjLVLp$1,103,103,11$a45c844520ffaee53fca844b506ee7b5
+burnt umberjet:$fcked$tgjkfhGUxHxwAKSp$4,100,3,103$fb2671ccf695dd4eb613dd08d6f88311
+burnt umbermaroon:$fcked$tcZrwUfujEqecbNu$100,12,2,1$4525fef564d14d76a962e01a1b58a297
+burnt umbermauve:$fcked$tCOyLPXqtVCXyJtA$101,15,0,102$048c5f4f1051edf646813d784b25efc6
+burnt umberviolet:$fcked$jRAfxFarunPxYwGq$11,12,101,1$16633baabb432e743718c0bfba453a2d
+burnt umberviridian:$fcked$dCmlnSleZLqUvLSL$100,103,101,103$a751ec4b8ac7de9018dda028b4d826bb
+cardinalamethyst:$fcked$gJOkgMFcrkkZkPsN$11,15,15,102$9182d1166edf3c5c53567d796862893f
+cardinalblue:$fcked$EMEGgFPeFnwRprTy$101,101,102,2$f10e858f34486c60dfb0fb693df35553
+cardinalcopper:$fcked$ypcThRQdEjJOhEpK$100,3,14,102$02b77787ad36aa7370cf8687badacbaa
+cardinalcyan:$fcked$MdppCMmHiXJXDcbX$102,2,103,5$cb12c21f724e3b9aa07a07ed68316624
+cardinalocher:$fcked$CxzrWJotbNyrknGC$11,15,13,1$4a24f7970e8b3db0232eef8633c80478
+cardinalolive:$fcked$CswUUpXwhoMXVDIA$0,13,102,102$f7f9a7b0171e5a0a6617c6813b70fae5
+cardinalpastel:$fcked$aAqsuMlufVeEyAgI$0,5,102,4$17a77ea06a088b33d68ec9d60fb5aab0
+cardinalpeach:$fcked$ivjtImuEnbeVFedf$12,103,100,100$23938d58e306a6078012e2b5752a0e09
+cardinalsea green:$fcked$QlWVnUAqWoVRJTWa$2,15,12,101$0aea52b19fc9f36bb37484d8def56b6f
+cardinalshamrock:$fcked$pEfEzPYHGhgwjucS$11,5,103,101$fd9f8c0ae5270f365a03608d239b3b89
+cardinalsienna:$fcked$yDWOBzzfwbJKgUMZ$0,13,13,14$484926bcf13c945d46db87f926329479
+cardinalturquoise:$fcked$mfQSwGGkrwYxlazO$5,1,5,102$99cbd3d7150c4c8815edfc5c04802a86
+carmineamber:$fcked$iQTJCtcxaTHfKold$100,15,102,1$b7badc62d4a8825d7f9361882e2f63f1
+carmineazure:$fcked$dsAvUGQSDZRfSNRI$5,14,103,1$1be8feb14a0a197ae841275f4be44aec
+carminebrown:$fcked$XmjAywVPvtEvPiSu$12,100,3,0$dda0359031b64d3c7cc38955dfba997f
+carminecrimson:$fcked$WYSxucSjXPNuHzdl$0,12,100,0$bfe47e4a05f91b908152bdb52fb2a2f9
+carminegreen:$fcked$IfmVkAYffNesWMRg$100,14,0,1$05b3e1281e262d31d8c46cca45456f7e
+carminegrey:$fcked$InabNBQDzRPObnEc$100,5,11,103$a0f39bcc8bb0c24c6a54ed0d3389b04b
+carminelight:$fcked$VBcblBKDbOqodXWV$1,12,101,1$3f9ce6c3141a088a107406296149957d
+carminemustard:$fcked$hePpPMpQCUJJWBpm$2,11,13,11$703a2f9e9949da72bf89481683b4b08e
+carminesteel blue:$fcked$XtcCkNVsiVJqCEvS$100,15,13,2$4828a517c5f862647a331033cef95a7b
+carminetomato:$fcked$lleujjrUnwmxPcYh$2,100,13,11$0ce3cba73f85043455ed15616775ff78
+carmineviridian:$fcked$kAcrlQzfcgZAWYHW$13,101,13,4$e0f9186bda011fe1c4e125f17e5d1ee9
+carminewheat:$fcked$pbcBxGosxQbnHEFx$11,100,4,12$a907df152eb023c4a8d4519d0962512f
+celadonbronze:$fcked$MUotCLsVesUOeloh$101,1,1,13$0659502f396947bf4513efa1300566cb
+celadonburnt umber:$fcked$vlsAChumEhLCmqjF$4,12,13,5$cb9e2484436e10a045e330d09609518a
+celadoncinnamon:$fcked$PzZAHTyRVqjXWBAW$14,3,103,1$77d1b3a383b314543fbce2e974dca647
+celadoncolor:$fcked$ufFXDmQmgOEZVQHJ$5,12,14,2$a74a478b7c1ec6fb6a6a76a37841111b
+celadonemerald:$fcked$uZgIfLUOxUcqHbCm$13,103,0,3$ba0993792b7de14314a80268c7710f3a
+celadonmauve:$fcked$TcBUfYxSffuqpQWC$11,1,5,13$e67dfe93bf82b08a692b5b120ce59cfc
+celadonsea green:$fcked$fbITOxJNhffUELSw$1,13,11,4$e0ac3c9647edeebf46baaa43ed258c99
+celadonsilver:$fcked$qGYQcPYQUXDAwfHV$5,12,1,2$b0a2cd038694344089fff14413f2f127
+celadonterracotta:$fcked$CiOVtstaHrQMyykt$103,0,101,102$1fd2bd5dcdebfb0fc3b87084a72b1fef
+cerisebuff:$fcked$hqQiFFDdIegsvLJf$13,1,1,11$6d5ddc9d2092ba331b5e00f62fe6450d
+ceriseceladon:$fcked$wEAjjUSgDxjTzZWv$4,12,13,1$4ac682fa9766afd632dbfedc123f6a65
+cerisecyan:$fcked$ALdqGriZKoEEDCrn$12,11,3,12$b8559eb8a63d100e75423745755c0f51
+cerisegray:$fcked$lQwtXjEQpmIyZciW$1,14,3,102$23c1e9630eedc685ecd7b7ce188163ba
+cerisejet:$fcked$HTsDMjicIokRSeve$15,14,100,1$895f710438a7407306c402e1ea96723c
+cerisepastel:$fcked$xvNqvItIGUvndloD$4,2,101,11$850519d12d3995f605ec2e438130619b
+cerisered:$fcked$CobyUrIhdMFUIJaI$4,14,15,101$b25230cfea5a54097c79dc412676408e
+ceriserose:$fcked$xuZEbQMangCwiWqc$15,4,100,3$ab87f70908ab449fc3d7f6ac98be2656
+ceruleanblue:$fcked$tpDujDAKzUhWAEkV$3,4,12,12$a2d986458f83897e8b86b269d7dc0b2b
+ceruleanburnt umber:$fcked$ObveTYhAISAsEPnI$4,101,11,3$2905b7a510324a22a1859fd4ec1fdb6b
+ceruleandenim:$fcked$pDuYVzXbLDjZZkVb$102,103,2,15$ef835eed608f2e56e28751439d927a0b
+ceruleanebony:$fcked$KvdzmKyDixoCLoWo$11,2,12,12$d2c9d59b359b00494748527021faa52c
+ceruleangold:$fcked$YvqRmReLOtOcbtlY$2,5,2,13$793759bf7c05d3ec6b6c6e027ce57ad7
+ceruleanhue:$fcked$bZgIpUVzBvUQsiih$1,11,12,1$8f9ee3411faf73762a56fc4e9bc069db
+ceruleanred:$fcked$fNMtdMmxxOIGMqcb$2,3,102,0$ab2e54a09457c16ef1137e573716047f
+ceruleanrose:$fcked$mPweQKcoqoSPcSbi$14,101,1,1$c75c5b6d91157a66b2aef4229f53aaf1
+ceruleanscarlet:$fcked$nmPrQsLfqvCpFHoG$5,100,100,3$b4a8adb170d4f25a8d841f95eaf83123
+ceruleanshamrock:$fcked$VkJDCxeLCFFGbtNV$12,102,103,11$e6cc534095a9a6d89ec751240a8c3337
+ceruleanviolet:$fcked$JOjwghCbzPjcdJHq$101,13,3,4$f45f9c446a31c9487d11404609cc6503
+ceruleanyellow:$fcked$cBAXhoshLlazXxQd$4,101,5,100$17436e70635d74e8ad5d40c84fc00bc7
+charcoalamethyst:$fcked$UxvVGwfRDHiDcTvI$0,2,101,1$7e5a1967721f3338d8bb6f00ba62b9e4
+charcoalauburn:$fcked$fPBOWgrjRlHtnnTX$15,11,100,11$65e29ee3a82ff068a51e278d0ee70906
+charcoalcolor:$fcked$zGknhzXJAJnxiZbD$15,101,102,3$4799f1791c5bda950b5428e441cbe25e
+charcoalebony:$fcked$EYdcwrhdhOVcEDJM$101,4,11,4$c1c3aaed893bfc59c882f0676e6217a7
+charcoalhue:$fcked$DDdVwHWoJUDCidct$100,3,12,12$5c3609adb0c3797d9f7a5dbe074c89b4
+charcoalindigo:$fcked$xOjhxkppTfaUKoFB$101,100,2,4$d74341eae17f36753c4dd35db80a429e
+charcoalkhaki:$fcked$gVjzDmemfbKhXLKS$103,1,13,103$ee6d824d9362f3840a7d2735f6fb5338
+charcoallilac:$fcked$VbDQtfMGEDtgmvxw$4,13,15,4$03458fc4fd2023d2694cc95f10e3c966
+charcoalnavy blue:$fcked$ThUUCmWbfLnfKyay$102,13,15,1$9389d7aa40560a764674335c927fc902
+charcoalred:$fcked$rYuBJwCOqIosvxRr$102,12,0,12$0e89e7cb47b469075794093a7bf2f3fa
+charcoalscarlet:$fcked$xaUfBRPohwUIhFVq$4,15,1,1$224e600e32215dd6e98e9f03472e9faa
+charcoalshamrock:$fcked$upvLzBFqjHpdVXuH$2,2,0,101$eb8cdfe5e01d4f5ac27615347d506e33
+charcoalsienna:$fcked$QcyByRxHptwrGrqW$13,13,14,3$eb928e6c839680361252941eeb2e5a87
+charcoalturquoise:$fcked$gpOlWpwpzGkoFYcj$100,2,11,100$ee7f4e02474e5462a1c8c760b895949b
+charcoalumber:$fcked$cfpAFMavpeYFdepR$101,3,101,0$1556620080ed831c953649f48b22382c
+chartreusecerise:$fcked$bffQWRtufDUfgwAt$103,15,101,15$2bae0f62462600a540b66f72c6cbe74f
+chartreuseemerald:$fcked$JviLWOprCErbDpxf$12,100,101,102$4ede2f1accd972c730e89e7f43022a37
+chartreuselemon:$fcked$vmgxoDhqWcNDhPVq$11,3,11,100$d70ff687e20cfff4b61e261d2ef861a7
+chartreuselilac:$fcked$ELydvZsUKgBPCIEG$2,3,101,101$fde2c0f63ae8f2311f0e7220875a6f86
+chartreuselime:$fcked$WbeoyaKJcDwIyNcC$5,5,1,12$6e94269b491ddb982920ac94d99f47e2
+chartreusesea green:$fcked$JJaeMTbKPelgHEDq$0,103,4,101$543f3d08c223479fa1af05edf8c106b2
+chartreusesecondary:$fcked$McSYfmopUaItHCss$15,101,102,103$16fc6808ef03c77434f7931c8d77b9ea
+chartreuseshade:$fcked$iADgRQexkfluJPmO$0,11,11,11$e489bdbaabb456cb2e19ed6f2ac01542
+chartreusespectrum:$fcked$xgBDeHcvgtthXImj$3,4,14,0$840f00409628ce7d2a57dd5961e44b77
+chartreuseviolet:$fcked$pXvESjyuFvJZmuGk$102,5,3,3$2e97e0d645f94d00202b2b6e52e9e09c
+chocolatecharcoal:$fcked$yZDNUrtpzzKEwYBL$14,11,2,12$12624d1909345ab8af775204a9c4018e
