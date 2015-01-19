@@ -326,7 +326,7 @@ extern int password_hash_thresholds[PASSWORD_HASH_SIZES];
 /*
  * Buffer size for fgets().
  */
-#define LINE_BUFFER_SIZE		0x30000
+#define LINE_BUFFER_SIZE		0x80000
 
 /*
  * Default threshold for inlining files in rar2john, zip2john, etc.

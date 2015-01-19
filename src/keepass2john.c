@@ -51,7 +51,7 @@ static char *keyfile = NULL;
 
 #define MAX_THR (LINE_BUFFER_SIZE / 2 - 2 * PLAINTEXT_BUFFER_SIZE)
 // static int inline_thr = MAX_INLINE_SIZE;
-static int inline_thr = MAX_THR;  // don't try to produce short hashes by default!
+static long inline_thr = MAX_THR;  // don't try to produce short hashes by default!
 
 // KeePass 1.x signature
 uint32_t FileSignatureOld1 = 0x9AA2D903;
@@ -403,7 +403,7 @@ int keepass2john(int argc, char **argv)
 		case 'i':
 			inline_thr = (int)strtol(optarg, NULL, 0);
 			if (inline_thr > MAX_THR) {
-				fprintf(stderr, "%s error: threshold %d, can't"
+				fprintf(stderr, "%s error: threshold %ld, can't"
 				        " be larger than %d\n", argv[0],
 				        inline_thr, MAX_THR);
 				return EXIT_FAILURE;
